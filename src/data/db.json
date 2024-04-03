@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": "3d1d",
+      "title": "PHP",
+      "content": "Learn PHP"
+    },
+    {
+      "id": "f2d2",
+      "title": "React.js",
+      "content": "Learn React.js"
+    },
+    {
+      "id": "3cce",
+      "title": "CSS",
+      "content": "Learn CSS",
+      "date": "2024-04-03T01:32:41.072Z"
+    },
+    {
+      "id": "7d9f",
+      "title": "java",
+      "content": "learn java",
+      "date": "2024-04-03T01:39:43.118Z"
+    }
+  ]
+}
